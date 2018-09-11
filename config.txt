@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDcyMzgyNzUwMTYzNDY4MzA4.Dnm8ew.FBUTn-6g5-jDyeP_aHs1UvMzAUM
+owner=373458893051002890
+prefix=#
+game=RozXCraft | Server
 stayinchannel=true
 songinstatus=true
